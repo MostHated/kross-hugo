@@ -1,8 +1,8 @@
 # default configuration
-baseURL = "http://examplesite.com"
+baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
-theme = "kross-hugo"
+# theme = "kross-hugo"
 title = "Kross | Hugo Portfolio Template"
 
 # css plugins
@@ -27,7 +27,7 @@ URL = "plugins/shuffle/shuffle.min.js"
 
 # menu
 [[menu.main]]
-URL = "about"
+URL = "#about"
 name = "About"
 weight = 2
 
